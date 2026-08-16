@@ -1,0 +1,2 @@
+﻿"TargetAccount","GrantedAt","ExpiresAt","Justification","SessionStatus"
+"admin.secops@enterprise.local","2026-08-16 15:20:14","16:20:14","Emergency firewall rule update for incident ticket INC-84920","Active-Monitored"

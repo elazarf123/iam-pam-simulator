@@ -1,0 +1,6 @@
+[2026-08-16 15:18:36] [PAM-SUCCESS] GRANT: Temporary elevated access granted to .
+[2026-08-16 15:18:36] [PAM-INFO] JUSTIFICATION: Emergency firewall rule update for incident ticket INC-84920
+[2026-08-16 15:18:36] [PAM-WARNING] EXPIRATION: Access token will automatically revoke at 16:18:36.
+[2026-08-16 15:20:14] [PAM-SUCCESS] GRANT: Temporary elevated access granted to admin.secops@enterprise.local.
+[2026-08-16 15:20:14] [PAM-INFO] JUSTIFICATION: Emergency firewall rule update for incident ticket INC-84920
+[2026-08-16 15:20:14] [PAM-WARNING] EXPIRATION: Access token will automatically revoke at 16:20:14.
