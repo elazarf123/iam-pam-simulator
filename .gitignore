@@ -1,0 +1,8 @@
+# PowerShell / Windows
+*.ps1xml.bak
+Thumbs.db
+desktop.ini
+.DS_Store
+# Local secrets
+.env
+secrets.ps1
